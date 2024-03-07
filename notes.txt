@@ -1,0 +1,16 @@
+# **********parcel is a bundler**********
+-- Dev Build
+--Local Server
+--HMR hot module replacement - refreshing automatically
+-- file watching Algorithms
+--cashing - faster builds
+--image optimizer
+--minification
+--compress
+--bundling 
+--Difrential bundling
+--consisting hashing
+--error handling 
+--HTTPS
+--tree shaking -- parcel remove unused code for u
+--different dev and production dev
